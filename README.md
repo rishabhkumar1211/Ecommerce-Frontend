@@ -27,15 +27,3 @@ MERN E-Commerce with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deploymen
 - Payments using Stripe - PaymentIntent based custom flow
 
 🔥 Link : https://sleepy-teal-cape.cyclic.app/
-
-
-## Stats
-
-<!-- BADGES:START -->
-<!-- BADGES:END -->
-
-
-## Changelog
-
-<!-- CHANGELOG:START -->
-<!-- CHANGELOG:END -->
